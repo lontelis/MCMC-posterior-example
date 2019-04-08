@@ -8,7 +8,7 @@ import scipy
 from scipy import integrate
 from scipy import interpolate
 from scipy import ndimage
-import numMath,cosmology
+#import numMath,cosmology
 # Taken from J.C.Hamilton and remodified by P.Ntelis October 2016
 
 print 'This mypymclib'
