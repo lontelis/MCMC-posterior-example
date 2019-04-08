@@ -15,12 +15,15 @@ git clone https://github.com/lontelis/MCMC-posterior-example.git
 
 # USE: 
 ``` 
-python MCMC_posterior.py
+cd MCMC-posterior-example <br />
+python MCMC_posterior.py 
 ``` 
 
 or
 
 inside an ipython session type:
-``` 
+```
+cd MCMC-posterior-example <br />
+ipython <br />
 run MCMC_posterior.py
 ``` 
