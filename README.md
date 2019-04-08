@@ -6,8 +6,10 @@ pymc    (https://pymc-devs.github.io/pymc/) <br />
 
 # INSTALLATION
 clone to your directory using:
+``` 
 git clone https://github.com/lontelis/MCMC-posterior-example.git
-<br />
+``` 
+
 <br />
 
 
