@@ -11,8 +11,7 @@ from scipy import ndimage
 #import numMath,cosmology
 # Taken from J.C.Hamilton and remodified by P.Ntelis October 2016
 
-print 'This mypymclib'
-
+print('This mypymclib')
 ###############################################################################
 ########################## Monte-Carlo Markov-Chains Functions ################
 ###############################################################################
@@ -173,7 +172,7 @@ def matrixplot(chain,vars,col,sm,limits=None,nbins=None,doit=None,alpha=0.7,labe
                 var0=labels[j]
                 var1=labels[i]
                 if paper2=='2018' and vars[j]=='om':
-                  print vars[j] 
+                  print(vars[j])
                   xlim([0.0,1.0])
                 elif paper2=='2019':
                   if   vars[j]=='om': xlim([0.2,0.6]) #0.0,0.6
