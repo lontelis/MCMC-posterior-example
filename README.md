@@ -14,16 +14,19 @@ git clone https://github.com/lontelis/MCMC-posterior-example.git
 
 
 # USE: 
+
 ``` 
 cd MCMC-posterior-example
-python MCMC_posterior.py 
 ``` 
 
-or
+then
 
-inside an ipython session type:
 ```
-cd MCMC-posterior-example
+python MCMC_posterior.py 
+```
+
+inside within an ipython session, by typping:
+```
 ipython
 run MCMC_posterior.py
 ``` 
