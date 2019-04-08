@@ -15,7 +15,7 @@ git clone https://github.com/lontelis/MCMC-posterior-example.git
 
 # USE: 
 ``` 
-cd MCMC-posterior-example <br />
+cd MCMC-posterior-example
 python MCMC_posterior.py 
 ``` 
 
@@ -23,7 +23,7 @@ or
 
 inside an ipython session type:
 ```
-cd MCMC-posterior-example <br />
-ipython <br />
+cd MCMC-posterior-example
+ipython
 run MCMC_posterior.py
 ``` 
